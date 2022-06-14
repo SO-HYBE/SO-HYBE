@@ -28,4 +28,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SO-HYBE)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
