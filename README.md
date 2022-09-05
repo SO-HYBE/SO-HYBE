@@ -1,5 +1,5 @@
 ### Hi, I’m Sohaib Ibrahim AKA @SO_HYBE</h1>
-- 👀 I’m interested in webdevelopment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning everything
 - 💞 I’m looking to collaborate with other developers
 - 2022 Goals: contribute more to open Source projects
@@ -22,6 +22,8 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
+<img align="left" alt="Nodejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;"/>
 <br />
 <br />
 
