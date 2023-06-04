@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning everything
 - 💞 I’m looking to collaborate with other developers
-- 2022 Goals: contribute more to open Source projects
+- 2023 Goals: contribute more to open Source projects
 
 ### Connect with me:
 -email: sohaibibrahim14@gmail.com<br>
