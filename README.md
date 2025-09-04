@@ -1,39 +1,52 @@
-### Hi, I’m Sohaib Ibrahim AKA @SO_HYBE</h1>
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning everything
-- 💞 I’m looking to collaborate with other developers
-- 2024 Goals: contribute more to open Source projects
+### Hi, I’m Sohaib Ibrahim AKA @SO-HYBE 🚀
 
-### Connect with me:
--email: sohaibibrahim14@gmail.com<br>
--twitter: https://twitter.com/so_hybe<br>
--instagram: https://www.instagram.com/so_hybe/<br>
--linkedin: https://www.linkedin.com/in/sohib-amer-4bba05b9/ 
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**  
+- 📊 Skilled in **Deep Learning, Computer Vision, Data Science, and MLOps basics**  
+- 🌐 Experienced with **Web Development** (Next.js, React, Node.js, TypeScript)  
+- 🏆 3rd Place Winner — **IEEE ComSoc Modifier 9.0 Hackathon (2025)**  
+- 🌱 Currently deepening my knowledge in **Neural Networks, NLP, and SDN research**  
+- 💡 Open to **collaborations in AI/ML research projects, open-source, and hackathons**  
+- 🎯 2025 Goal: **Publish research and contribute impactful AI projects**  
+
+---
+
+### 🔗 Connect with me:
+- 📧 Email: **sohaibibrahim14@gmail.com**  
+- 🐦 Twitter: [@so_hybe](https://twitter.com/so_hybe)  
+- 📸 Instagram: [@so_hybe](https://www.instagram.com/so_hybe/)  
+- 💼 LinkedIn: [Sohybe Amer](https://www.linkedin.com/in/sohib-amer-4bba05b9/)  
+
+---
+
+### 🛠️ Languages and Tools:
+<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="TensorFlow" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<img align="left" alt="PyTorch" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+<img align="left" alt="Scikit-Learn" width="32px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"/>
+<img align="left" alt="Pandas" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img align="left" alt="NumPy" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img align="left" alt="Matplotlib" width="32px" src="https://matplotlib.org/stable/_static/images/logo2.svg"/>
+<img align="left" alt="SQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<br />
 <br />
 
-
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
-<img align="left" alt="Nodejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="jQuery" width="26px" src="https://user-images.githubusercontent.com/44274982/199553771-d1929da6-b61c-4a62-a196-92308e7a319d.svg" style="padding-right:10px;"/>
-<br />
-<br />
+---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>⚡ GitHub Stats</summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SO-HYBE)](https://github.com/anuraghazra/github-readme-stats)
+![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=SO-HYBE&show_icons=true&theme=radical)
+
+</details>
+
+<details>
+  <summary>🔥 Top Languages</summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SO-HYBE&layout=compact&theme=radical)
 
 </details>
