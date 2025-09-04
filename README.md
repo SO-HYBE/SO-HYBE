@@ -12,7 +12,6 @@
 
 ### 🔗 Connect with me:
 - 📧 Email: **sohaibibrahim14@gmail.com**  
-- 🐦 Twitter: [@so_hybe](https://twitter.com/so_hybe)  
 - 📸 Instagram: [@so_hybe](https://www.instagram.com/so_hybe/)  
 - 💼 LinkedIn: [Sohybe Amer](https://www.linkedin.com/in/sohib-amer-4bba05b9/)  
 
